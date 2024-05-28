@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My website https://irynaziakhor.com/. 
-- I am currenly building https://sens.center/ and https://www.kyivlab.com/.
+- I am currenly building https://sens.center/ [@senscenter](https://github.com/senscenter) and https://www.kyivlab.com/.
 
 <!--
 **ilovetea/ilovetea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
